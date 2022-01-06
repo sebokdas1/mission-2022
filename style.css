@@ -1,0 +1,98 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.mission-2022{
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+.focused{
+    
+    border: 0;
+    
+    
+    padding-left: 5px;
+}
+.orange-color{
+    color: orange;
+}
+.image img{
+    width: 400px;
+}
+.link-button{
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    background-image: linear-gradient(25deg, blue, yellow);
+}
+.my-mission{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.mission-image{
+    width: 100px;
+    padding-top: 10px;
+}
+
+.mission-vission-goals{
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+    justify-content: space-between;
+}
+#mission{
+    width: 250px;
+    border: 0;
+    border-radius: 15px;
+    background-color: #f5deb3af;
+    padding-left: 5px;
+}
+#vission{
+    width: 250px;
+    border: 0;
+    border-radius: 15px;
+    background-color: #b3f5cf81;
+    padding-left: 5px;
+}
+#goals{
+    width: 250px;
+    border: 0;
+    border-radius: 15px;
+    background-color: #f06b666b;
+    padding-left: 5px;
+}
+.develop{
+    margin-left: 50px;
+}
+h1{
+    font-weight: 700;
+}
+.m22{
+    margin-top: 50px;
+}
+
+.surokkha img{
+    height: 400px;
+    width: 280px;
+}
+.mission-2022 p{
+    padding-right: 10px;
+}
+
+footer{
+    background-color: slateblue;
+}
+.mission-footer{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.footer-22{
+    color: red;
+}
