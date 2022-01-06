@@ -108,3 +108,6 @@ footer h1{
     border-image: linear-gradient(red, blue);
     border-image-slice: 1;
 }
+.apk{
+    color: #008000b4;
+}
