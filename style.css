@@ -96,3 +96,7 @@ footer{
 .footer-22{
     color: red;
 }
+
+footer h1{
+    font-family: 'Acme', sans-serif;
+}
